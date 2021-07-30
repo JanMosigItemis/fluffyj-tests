@@ -1,2 +1,2 @@
 # Fluffy J Tests
-Test helper code that aims at making test code easier to comprehend. Also extra fluffy ❤
+This repository has been moved to [https://github.com/itemis/fluffyj-tests](https://github.com/itemis/fluffyj-tests).
